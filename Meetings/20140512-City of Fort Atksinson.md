@@ -1,6 +1,7 @@
 
 #### Meeting with City of Fort Atkinson (COFA)
-
+---
+**Date: 05.12.2014**
 **Attendees**
 * Dave Schultz (Building Owner)
 * Ryan Schultz (Architect)
